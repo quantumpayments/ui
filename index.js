@@ -1,5 +1,5 @@
 module.exports = {
-  header : require('views/header'),
+  header : require('views/head'),
   footer : require('views/footer'),
   nav    : require('views/nav')
 }
