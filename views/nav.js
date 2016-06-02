@@ -20,7 +20,7 @@ var nav = `
                 <li><a href="/random">Content</a></li>
                 <li><a href="/faucet">Faucet</a></li>
                 <li><a href="/deposit">Deposit</a></li>
-                <li><a href="/withdraw">Withdraw</a></li>
+                <li><a href="/withdrawal">Withdrawal</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="#">Login</a></li>
@@ -29,6 +29,6 @@ var nav = `
     </nav>
 </div>
 
-`;
+`
 
 module.exports = nav
