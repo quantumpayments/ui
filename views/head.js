@@ -8,6 +8,7 @@ var head = `
     .content-wrapper {
       margin-left: 230px;
     }
+    </style>
 </head>
 <body>
 `
