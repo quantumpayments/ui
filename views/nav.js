@@ -29,6 +29,16 @@ var nav = `
     </nav>
 </div>
 
+<aside class="main-sidebar">
+  <!-- sidebar: style can be found in sidebar.less -->
+  <section class="sidebar">
+  Side
+  </section>
+</aside>
+
+<div class="content-wrapper">
+<section class="content-header">
+
 `
 
 module.exports = nav
