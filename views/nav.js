@@ -21,7 +21,7 @@ function getNav(config) {
                 var tabs = config.ui.tabs
                 for (var key in tabs) {
                    if (tabs.hasOwnProperty(key)) {
-                     nav += '<li><a href="'+ tabs.key +'">'+ tabs +'</a></li>'
+                     nav += '<li><a href="'+ tabs[key] +'">'+ key +'</a></li>'
                    }
                 }
 
